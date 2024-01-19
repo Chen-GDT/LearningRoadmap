@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: 数字营销PBL项目式学习：模板与学习路线图（学习地图）
-hero_media: book.svg
+hero_media: sales-funnel.svg
 design:
   background:
     gradient_start: '#4bb4e3'

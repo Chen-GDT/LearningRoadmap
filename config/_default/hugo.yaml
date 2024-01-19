@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Project' # Website name
-baseURL: 'https://example.com/' # Website URL
+title: '数字营销PBL项目式学习' # Website name
+baseURL: 'https://crr9331.github.io/LearningRoadmap/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -21,8 +21,8 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+defaultContentLanguage: zh
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
