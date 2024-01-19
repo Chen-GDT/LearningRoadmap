@@ -7,6 +7,15 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
+  params:
+    description: Digital Marketing Project-Based Learning...
+  main:
+    - name: Home
+      url: /
+      weight: 10
+    - name: Documentation
+      url: docs/
+      weight: 20
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
@@ -14,9 +23,9 @@ zh:
 #  contentDir: content/zh
 #  title: Chinese website title...
   params:
-    description: Site description in Chinese...
+    description: 数字营销PBL项目式学习...
   main:
-    - name:  家目录
+    - name: 家目录
       url: /
       weight: 10
     - name: 项目文档
