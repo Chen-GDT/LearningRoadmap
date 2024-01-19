@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: 项目特色
-subtitle: 记录 _一切_ ✨学习足迹，温故知新
+subtitle: 记录 _一切_ 学习足迹✨，温故知新
 feature:
   - icon: book-open
     icon_pack: fas
@@ -18,3 +18,4 @@ feature:
     name: 个人学习笔记
     description: 面对自我，克服成长不适，记录学习及突破难关的心得
 ---
+
